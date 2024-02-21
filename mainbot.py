@@ -100,5 +100,5 @@ async def check(ctx):
     else:
         await ctx.send('anda lupa mengirim gambar!')
 
-bot.run("MTE1MTUwMDQ4OTc4NDA0NTY2MQ.Gv2daW.87s1FtDbH11l8gayQU7hH4tPeQWuwEjWcNZ1vg")
+bot.run("token bot")
 
